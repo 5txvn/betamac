@@ -4,12 +4,17 @@
     margin: 0 auto;
 }
 
-.btn {
-    background-color: grey;
-    border-color: black;
+.butn {
+    background-color: #3c4142;
+    border-type: solid;
+    border-width: 1px;
+    border-color: white;
     border-radius: 0;
     color: white;
     font-weight: bold;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin:0;
 }
 
 .numpad {
